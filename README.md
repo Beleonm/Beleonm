@@ -1,19 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Miguel Bedoya</title>
-    <style>
-        .banner {
-            display: block;
-            width: 100%;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-    </style>
-</head>
+
 <body>
     <p align="center">
         <img src="live streaming daily.gif" alt="Miguel Bedoya - Software Engineering Student" class="banner">
