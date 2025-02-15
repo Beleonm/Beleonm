@@ -1,9 +1,9 @@
+<body>
+    <a href="https://github.com/user-attachments/assets/6194829c-9719-42a3-918d-c3c6232891f4" target="_blank">
+        <img src="banner.jpg" alt="Banner" class="banner">
+</body>
+<h1 align="center">Hi 👋 I'm Miguel Bedoya</h1>
 
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTgx-aC78&#x2F;S80y5GQDOlVc1QAMwp2vzA&#x2F;watch?utm_content=DAGTgx-aC78&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" 
-  </iframe>
-
-<h1 align="center">Hi 👋, I'm Miguel Bedoya</h1>
 <h3 align="center">Software engineering student and passionate about the front-end, from Colombia!</h3>
 
 - 🔭 I’m currently working on [personal project](https://github.com/Leonn231/ProjectoFinalapp)
