@@ -1,7 +1,7 @@
-<body>
+
    <a href="https://github.com/user-attachments/assets/6194829c-9719-42a3-918d-c3c6232891f4" target="_blank">
         <img src="live streaming daily.gif" alt="Banner" class="banner">
-</body>
+
 <h1 align="center">Hi 👋 I'm Miguel Bedoya</h1>
 
 <h3 align="center">Software engineering student and passionate about the front-end, from Colombia!</h3>
