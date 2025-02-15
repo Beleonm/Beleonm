@@ -1,26 +1,38 @@
 
-   <a href="https://github.com/user-attachments/assets/6194829c-9719-42a3-918d-c3c6232891f4" target="_blank">
-        <img src="live streaming daily.gif" alt="Banner" class="banner">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Miguel Bedoya</title>
+    <style>
+        .banner {
+            display: block;
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <p align="center">
+        <img src="live streaming daily.gif" alt="Miguel Bedoya - Software Engineering Student" class="banner">
+    </p>
+    <h1 align="center">Hi 👋 I'm Miguel Bedoya</h1>
+    <h3 align="center">Software engineering student and passionate about the front-end, from Colombia!</h3>
 
-<h1 align="center">Hi 👋 I'm Miguel Bedoya</h1>
-
-<h3 align="center">Software engineering student and passionate about the front-end, from Colombia!</h3>
-
-- 🔭 I’m currently working on [personal project](https://github.com/Leonn231/ProjectoFinalapp)
-
-- 👯 I’m looking to collaborate on **video games projects**
-
-- 🤝 I’m looking for help with **front end projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Leonn231?tab=repositories](https://github.com/Leonn231?tab=repositories)
-
-- 👨‍💻 Linkedin profile [www.linkedin.com/in/miguel-bedoya-león-725082343](www.linkedin.com/in/miguel-bedoya-león-725082343)
-
-- 📫 How to reach me **bedoyaleon231@gmail.com**
-
-- ⚡phone contact [+57 3104693755](+57 3104693755)
-
-- ⚡ fact **I like teamwork preferably**
+  <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/Leonn231/ProjectoFinalapp">personal project</a></li>
+        <li>👯 I’m looking to collaborate on <b>video games projects</b></li>
+        <li>🤝 I’m looking for help with <b>front end projects</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/Leonn231?tab=repositories">GitHub Repositories</a></li>
+        <li>👨‍💻 Linkedin profile <a href="https://www.linkedin.com/in/miguel-bedoya-león-725082343">LinkedIn</a></li>
+        <li>📫 How to reach me: <b>bedoyaleon231@gmail.com</b></li>
+        <li>⚡ Phone contact: <a href="tel:+573104693755">+57 3104693755</a></li>
+        <li>⚡ Fact: <b>I like teamwork preferably</b></li>
+    </ul>
+</body>
+</html>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
